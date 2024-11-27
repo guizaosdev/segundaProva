@@ -1,0 +1,19 @@
+* {
+    background-color: black;
+    color: whitesmoke;
+    margin: 0px;
+    padding: 0px;
+}
+
+.Titulo {
+  text-align: center;
+  padding-top: 60px;
+}
+
+.TextoSobre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+  font-size: 20px;
+}
